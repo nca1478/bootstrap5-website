@@ -34,7 +34,7 @@
 
 ## Demo
 
-[Frontend Bootcamp](https://google.com)
+[Frontend Bootcamp](https://bootcamp-website-njca.netlify.app/)
 
 ## Installation
 
