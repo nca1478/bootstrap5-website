@@ -1,31 +1,31 @@
-# Frontend Bootcamp
+# Bootcamp Frontend (Sitio Web)
 
-`Frontend Bootcamp` is a website to provides basic information about an frontend bootcamp.
+`Bootcamp Frontend` es un sitio web que proporciona información básica sobre un bootcamp frontend.
 
-## Features
+## Características
 
-- One page website (Landing Page).
-- Header with main menu with options to access the sections of the site.
-- Section with basic information about the bootcamp.
-- Signup newsletter form.
-- Boxes section.
-- Info section.
-- FAQ section.
-- Instructors section.
-- Contact info section (with Map location).
+- Sitio Web de una sola página.
+- Encabezado con menú principal para acceder a las secciones del sitio.
+- Secciones con información básica sobre el bootcamp.
+- Formulario de suscripción al boletín de noticias.
+- Sección de Cajas.
+- Sección de Información.
+- Sección de Preguntas Frecuentas.
+- Sección de Instructores.
+- Sección de Contacto (con mapa de ubicación).
 
-## General Information
+## Información General
 
-- The purpose of this project is to practice the web technologies shown below.
+- El propósito de este proyecto es practicar las tecnologías web que se muestran a continuación.
 
-## Tech Stack
+## Tecnologías (Tech Stack)
 
 - HTML5.
-- CSS3 (Flexbox and Media Queries).
+- CSS3 (Flexbox y Media Queries).
 - Bootstrap CSS Framework.
 - Responsive Design.
 
-## Development tools and other Technologies
+## Herramientas de Desarrollo y Otras Tecnologías
 
 - [Bootstrap 5.0](https://getbootstrap.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
@@ -34,12 +34,12 @@
 
 ## Demo
 
-[Frontend Bootcamp](https://bootcamp-website-njca.netlify.app/)
+[Bootcamp Frontend ](https://bootcamp-website-njca.netlify.app/)
 
-## Installation
+## Instalación
 
-> No installation required.
+> No se requiere instalación.
 
-## Input or main file
+## Archivo principal o de entrada
 
 > /index.html
